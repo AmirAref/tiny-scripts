@@ -18,9 +18,9 @@ def main():
     
 
 
-    # sort pdf files names
+    # pdf files list
     files = [item for item in folder.rglob("*.pdf")]
-    files.sort(key=lambda x:(int(x.stem.split('-')[1])) )
+    #files.sort(key=lambda x:(int(x.stem.split('-')[1])) )
     
     # merge files
     with PdfMerger() as merger:
