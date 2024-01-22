@@ -1,20 +1,24 @@
 # Tiny Scripts
-this is a repo for my tiny, quick and useful scripts to do anything that computer can make it easy for me.  
 
-</br></br>  
+this is a repo for my tiny, quick, and useful scripts to do anything that the computer can make it easy for me.
+</br>
 
-
-## Table of Scripts :  
+## Table of Scripts :
 
 ### `Konkur-study/`
-  - [exam-assist](https://github.com/AmirAref/tiny-scripts/blob/master/konkur-study/exam-assist/exam-assist.py) : a script to grade me on exams.
-  - [test-list-gen](https://github.com/AmirAref/tiny-scripts/tree/master/konkur-study/test-list-gen/test-list-gen.py) : a script to create a list test numbers with specific range and specific step.
-  - [score-calc](https://github.com/AmirAref/tiny-scripts/tree/master/konkur-study/score-calc.py) : a script to grade you in multiple choice test (with negative score).
- 
+
+- [exam-assist](konkur-study/exam-assist/exam-assist.py): a script to grade me on exams.
+- [test-list-gen](konkur-study/test-list-gen/test-list-gen.py): a script to create a list of test numbers with specific ranges and specific steps.
+- [score-calc](konkur-study/score-calc.py): a script to grade you in a multiple-choice test (with a negative score).
 
 ### `pdf-files/`
-  - [pages-counter](https://github.com/AmirAref/tiny-scripts/blob/master/pdf-files/pages-counter.py) : a script to count pages of all pdf files in a directory.
-  - [pdf-merger](https://github.com/AmirAref/tiny-scripts/blob/master/pdf-files/pdf-merger.py) : a script to merge the pdf files in a directory into one file.
+
+- [pages-counter](pdf-files/pages-counter.py): a script to count pages of all pdf files in a directory.
+- [pdf-merger](pdf-files/pdf-merger.py): a script to merge the pdf files in a directory into one file.
+- [pdf-spliter](pdf-files/pdf-spliter.py): a script to export specific pages ranges of a big pdf file
 
 <!-- - [name](link) : description -->
- 
+
+### `telegram/`
+
+- [files-downloader](./telegram/files-downloader.py) : downloading a telegram channel's files
