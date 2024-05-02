@@ -22,3 +22,7 @@ this is a repo for my tiny, quick, and useful scripts to do anything that the co
 ### `telegram/`
 
 - [files-downloader](./telegram/files-downloader.py) : downloading a telegram channel's files
+
+### `scripts/`
+
+- [score-calc-helper](./scripts/score-calc-helper.py) : a helper script to get and caluclate the score of students and make csv file
