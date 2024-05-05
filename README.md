@@ -16,6 +16,7 @@ this is a repo for my tiny, quick, and useful scripts to do anything that the co
 - [pages-counter](pdf-files/pages-counter.py): a script to count pages of all pdf files in a directory.
 - [pdf-merger](pdf-files/pdf-merger.py): a script to merge the pdf files in a directory into one file.
 - [pdf-spliter](pdf-files/pdf-spliter.py): a script to export specific pages ranges of a big pdf file
+- [pdf-outline](pdf-files/pdf-outline.py): this script creates outline trees for your pdf document (recommended for scanned pdfs) 
 
 <!-- - [name](link) : description -->
 
