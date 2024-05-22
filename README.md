@@ -27,3 +27,4 @@ this is a repo for my tiny, quick, and useful scripts to do anything that the co
 ### `scripts/`
 
 - [score-calc-helper](./scripts/score-calc-helper.py) : a helper script to get and caluclate the score of students and make csv file
+- [decode-interpreter](./scripts/decode-interpreter.py) : this is a command line tool to make "define" like C++ in python code.
