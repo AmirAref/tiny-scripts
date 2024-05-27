@@ -51,7 +51,8 @@ def main():
 
     # add hint comments
     output_code = "#----------defines----------\n"
-    output_code += "\n".join(["{} -> {}".format(key, defines[key]) for key in defines])
+    # define value -> key
+    output_code += "\n".join(["{} -> {}".format(defines[key], key) for key in defines])
     output_code += "\n#--------end-defines-------\n\n"
     output_code += "#---------code-block---------\n"
     # replace defines
